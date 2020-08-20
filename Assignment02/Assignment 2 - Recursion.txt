@@ -1,0 +1,20 @@
+
+ File conatins NFA with rule that 3rd last is 1 and character set contains 0,1
+
+ Transition Table
+
+	St.	0	1
+
+ 	A	A	AB
+	B	C	C
+	C	D	D
+	D	-	-
+
+
+ code is done by recursion and a working smartly with no storage of data
+
+ Code Purpose
+ NFA gives all possible path of a given string.
+
+
+	Designed by : Abdullah Zafar (BCSF16A508)
